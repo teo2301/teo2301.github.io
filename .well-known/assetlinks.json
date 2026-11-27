@@ -22,5 +22,17 @@
         "C6:8F:98:0B:BE:6A:83:1E:FD:F5:72:67:45:41:09:C3:2D:05:AF:62:AB:5F:F6:5F:FC:50:32:FF:CF:C3:9A:33"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.teo2301.hiphopquiz",
+      "sha256_cert_fingerprints": [
+        "C6:8F:98:0B:BE:6A:83:1E:FD:F5:72:67:45:41:09:C3:2D:05:AF:62:AB:5F:F6:5F:FC:50:32:FF:CF:C3:9A:33"
+      ]
+    }
   }
 ]
